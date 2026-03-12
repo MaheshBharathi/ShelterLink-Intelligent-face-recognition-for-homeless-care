@@ -1,0 +1,152 @@
+/* .container{
+    display: flex;
+    border: 2px solid #032d3e;
+    background-color: #032d3e;
+    color: white;
+   
+ }
+ .topflex-items
+ {
+     text-decoration: underline;
+    padding-bottom: 20px;
+     margin-top: 20px;
+     margin-right: 30px;
+     
+ 
+ }
+ .item1
+ {
+     margin-right: 40px;
+     margin-left: 1200px;
+ }
+ .item2
+ {
+     margin-right: 40px;
+ }
+ .item3
+ {
+     margin-right: 40px;
+ }
+ .top{
+     margin: 0px;
+     padding: 10px;
+     text-align: center;
+     border:2px solid #2c708d;
+     background-color: #2c708d;
+     color: white;
+     font-weight: 700;
+     font-size: 18px;
+ }
+ .item1:hover,.item2:hover,.item3:hover{
+     color: #2c708d;
+ }
+ .top:hover
+ {
+     color:#b79257 ;
+ }
+ .header
+ {
+   margin: 0px;
+     text-align: center;
+     border: 2px solid #eee;
+     background-color: #eee;
+     color: #ae4e0a;
+     font-style: italic;
+    
+ }
+ h1::first-letter{
+     font-size: 3rem;
+     font-style: italic;
+ }
+ .img
+ {
+    background-position-x: center;
+     height: 1500px;
+     background-image: url(C:\Users\DELL\mernstack\src\Project\backgroundimg1.webp);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+ }
+ .maincontainer1{
+    display: flex;
+ }
+ .flex-items{
+    margin-top: 30px;
+    text-align: center;
+    border: 2px solid  #1b4f5a;
+    background: rgba(44, 112, 141, 0.6);
+    width: 620px;
+ }
+ .flex-work
+ {
+    margin-top: 30px;
+    margin-left: 265px;
+    margin-right:0px;
+    text-align: center;
+    border: 2px solid  #1b4f5a;
+    background: rgba(44, 112, 141, 0.6);
+    width: 620px;
+ }
+ #itemhead1{
+     color: #b79257;
+ }
+ .container2{
+     margin-top: 20px;
+     font-weight: 700;
+     font-size: 18px;
+     text-align: center;
+     border: 2px solid #032d3e;
+     width: 420px;
+     height: 420px;
+    
+     border-radius: 10px;
+ }
+
+ #upload{
+     border-radius: 10px;
+     margin-top: 0px;
+     border: 2px solid #032d3e;
+     color: white;
+     background-color:#032d3e ;
+ }
+ img{
+     width: 120px;
+     height: 110px;
+ }
+ .uploadbutton{
+     border:2px solid #032d3e ;
+   background-color: #d38a56 ;
+   color:#032d3e;
+  font-size: larger;
+  border-radius: 20px;
+   
+ }
+ .uploadbutton:hover{
+     background-color: #032d3e;
+     color:#d38a56 ;
+     border:2px solid #d38a56 ;
+ }
+ .p1{
+     color: white;
+ }
+ #upload1{
+     border-radius: 10px;
+     margin-top: 0px;
+     border: 2px solid #032d3e;
+     color: white;
+     background-color:#032d3e ;
+ }
+ .container3{
+   margin-top: 20px;
+     font-weight: 300;
+     font-size: 18px;
+     text-align: center;
+     border: 2px solid #032d3e;
+     width: 420px;
+     height: 420px;
+    margin-left: 750px;
+     border-radius: 10px;
+     
+ }
+ .maincontainer2{
+     display: flex;
+ } */

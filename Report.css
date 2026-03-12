@@ -1,0 +1,86 @@
+
+.datareport-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: url('../Images/childrep.jpg') no-repeat center center/cover;
+}
+
+.datareport-container {
+  width: 600px;
+  padding: 30px;
+  background: rgba(0, 0, 0, 0.7); 
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+  text-align: center;
+  color: white;
+  margin-top: 100px;
+  margin-left: 550px;
+}
+
+
+.datareport-title {
+  color: whitesmoke;
+  font-size: 24px;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+
+.datareport-label {
+  display: block;
+  margin-top: 15px;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: left;
+  color: #f8f9fa;
+}
+
+.datareport-input,
+.datareport-textarea {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  border-radius: 5px;
+  border: none;
+  background: rgba(255, 255, 255, 0.9);
+  color: #333;
+  font-size: 14px;
+  outline: none;
+  transition: 0.3s;
+}
+
+.datareport-textarea {
+  resize: none;
+}
+
+.datareport-button,
+.datareport-submit {
+  display: inline-block;
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  background: #ff5722;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: 0.3s ease-in-out;
+  border: none;
+}
+
+.datareport-button:hover,
+.datareport-submit:hover {
+  background: #e64a19;
+}
+
+
+.datareport-location {
+  font-size: 14px;
+  color: #d1d1d1;
+  margin-top: 5px;
+  font-style: italic;
+}
